@@ -25,7 +25,7 @@ public class RegisterFragment extends Fragment {
         passwordEditText = view.findViewById(R.id.et_password);
         Button registerButton = view.findViewById(R.id.register);
         registerButton.setOnClickListener(v -> {
-
+        //TODO:
         });
         return view;
     }
