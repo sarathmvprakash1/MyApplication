@@ -26,6 +26,7 @@ public class RegisterFragment extends Fragment {
         Button registerButton = view.findViewById(R.id.register);
         registerButton.setOnClickListener(v -> {
         //TODO:
+            
         });
         return view;
     }
